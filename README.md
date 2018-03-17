@@ -1,2 +1,3 @@
-# reversi
-Reversi board game implemented in java using hashed linked list data structure.
+## reversi
+### simple tile game
+### basic gui practice
